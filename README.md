@@ -1,4 +1,4 @@
-# IA
+# IA - Fisiculturismo no mundo das IAs generativas
 
 # Fisiculturismo no mundo das IAs generativas
 
@@ -11,10 +11,10 @@ IA Generativa D-ID: usada para sintetização de voz e geração de avatar virtu
 
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Foi usado para criação desse vídeo a IA D-ID para geração de vóz captando a vóz através do microfone do PC
 
 ## 🚀 Resultados
-(https://studio.d-id.com/share?id=3dc9c1fbfa83635881da0e319faeb401&utm_source=copy)
+https://studio.d-id.com/share?id=3dc9c1fbfa83635881da0e319faeb401&utm_source=copy
 
 
 ## 💭 Reflexão (Opcional)
