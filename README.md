@@ -14,7 +14,8 @@ IA Generativa D-ID: usada para sintetização de voz e geração de avatar virtu
 Descreva como você criou o conteúdo
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+(https://studio.d-id.com/share?id=3dc9c1fbfa83635881da0e319faeb401&utm_source=copy)
+
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
