@@ -3,11 +3,11 @@
 # Fisiculturismo no mundo das IAs generativas
 
 ## 📒 Descrição
-E se pudéssemos treinar IA para gerar planos de treino e nutrição perfeitos para fisiculturistas, personalizados de acordo com seus objetivos e tipos de corpo únicos? Esta IA também poderia analisar e melhorar a forma e a técnica do treino através de feedback em tempo real, garantindo um desempenho ideal e prevenção de lesões. Além disso, poderia fornecer observadores virtuais e parceiros de treino para motivação e segurança durante o trabalho pesado.
+Olá pessoal. Aquí Dinaron70! Inspirado na hype "Natty or Not" do fisiculturismo, te convido a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis! Vem comigo.
 
 ## 🤖 Tecnologias Utilizadas
-Lista das IAs Generativas usadas no projeto:
-D-ID
+IA Generativa D-ID: usada para sintetização de voz e geração de avatar virtual;
+
 
 
 ## 🧐 Processo de Criação
